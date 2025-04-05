@@ -57,9 +57,7 @@ frontend/
 ## Live Link
 
 You can access the live frontend deployment here:
-[Live Frontend URL](https://your-live-frontend-url.com)
-
-> Replace the link above with your actual deployment URL.
+[Live Frontend URL](https://one-banc-fe.vercel.app/)
 
 ## Tech Stack
 
